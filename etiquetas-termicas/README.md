@@ -1,2 +1,1 @@
-# advpl-examples
-Exemplos de rotinas e ou relatÃ³rios em ADVPL para o ERP TOTVS Protheus
+# Impressão de etiquetas térmicas (ARGOX) direto na porta
